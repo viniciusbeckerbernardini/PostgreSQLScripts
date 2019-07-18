@@ -1,3 +1,6 @@
+
+-- View são feitas apenas para leitura
+
 CREATE OR REPLACE VIEW VW_CUSTOMERS
 AS 
 SELECT CUSTOMER_ID,
